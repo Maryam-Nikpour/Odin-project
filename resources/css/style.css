@@ -3,8 +3,12 @@
     padding: 0;
     box-sizing: border-box;
 }
+body{
+    font-family: Roboto;
+}
 .section1{
-    background-color: aqua;
+    background-color: #1f2937;
+ 
 }
 .header{
 display: flex;
@@ -13,9 +17,21 @@ align-items: center;
 }
 .header-logo{
 background-color: royalblue;
+font-size: 24px;
+color: #f9faf8;
+
 }
 .header-menu{
 background-color: blueviolet;
+
+}
+.menu-list{
+    list-style-type: none;
+    display: flex;
+    color: #E5E7EB;
+    font-size: 18px;
+    
+    
 }
 .menu-item{
 
