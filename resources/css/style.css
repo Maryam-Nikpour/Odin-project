@@ -3,3 +3,18 @@
     padding: 0;
     box-sizing: border-box;
 }
+.section1{
+    background-color: aqua;
+}
+.header{
+display: flex;
+}
+.header-logo{
+background-color: royalblue;
+}
+.header-menu{
+background-color: blueviolet;
+}
+.menu-item{
+
+}
