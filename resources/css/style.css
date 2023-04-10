@@ -40,3 +40,24 @@ font-weight: bold;
 .menu-item{
 padding: 10px 20px;
 }
+.hero{
+
+}
+.hero-left{
+background-color: pink;
+}
+.hero-left-heading{
+
+}
+.hero-left-text{
+
+}
+.button{
+
+}
+.hero-right{
+background-color: blueviolet;
+}
+.photo{
+    width: 400px;
+}
