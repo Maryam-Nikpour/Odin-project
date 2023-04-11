@@ -11,7 +11,7 @@ body{
  
 }
 .container{
-    padding: 0px 150px;
+    padding: 0px 200px;
 }
 .header{
 display: flex;
@@ -41,10 +41,24 @@ font-weight: bold;
 padding: 10px 20px;
 }
 .hero{
+display: flex;
+height: 250px;
+justify-content: space-between;
+align-content: center;
+margin-top: 100px;
+
 
 }
 .hero-left{
 background-color: pink;
+display: flex;
+flex-direction: column;
+padding: 20px 50px;
+margin-right: 50px;
+width: 50%;
+
+
+
 }
 .hero-left-heading{
 
@@ -56,8 +70,9 @@ background-color: pink;
 
 }
 .hero-right{
-background-color: blueviolet;
+    background-image: url("../water.jpeg");
+    background-size: cover;
+width: 40%;
 }
-.photo{
-    width: 400px;
-}
+
+
