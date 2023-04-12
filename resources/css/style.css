@@ -83,5 +83,22 @@ margin-top: 10px;
 width: 50%;
 height: 230px;
 }
+.section2{
+background-color: pink;
+height: 350px;
 
+}
+.section2-heading{
+text-align: center;
+font-size: 36px;
+color: #1f2937;
+font-weight: bold;
+padding-top: 40px;
+}
+.section2-cards{
+
+}
+.section2-cards-item{
+
+}
 
