@@ -84,8 +84,7 @@ width: 50%;
 height: 230px;
 }
 .section2{
-
-height: 400px;
+height: 500px;
 
 }
 .section2-heading{
@@ -112,4 +111,24 @@ list-style: none;
 .section2-cards-text{
     width: 200px;
     text-align: center;
+}
+.section3{
+    background-color: lightgray;
+    height: 300px;
+    padding: 50px 0;
+    
+    
+}
+.quote{
+   font-size: 38px;
+   color: #1F2937;
+   font-style: italic;
+   width: 1000px;
+   margin: auto;
+ 
+
+}
+.author{
+direction: rtl;
+padding-right: 100px;
 }
