@@ -82,7 +82,7 @@ margin-top: 10px;
     background-size: cover;
 width: 50%;
 height: 230px;
-border-radius: 5%;
+border-radius: 10px;
 }
 .section2{
 height: 500px;
@@ -183,4 +183,23 @@ font-size: 36px;
   font-weight: bold;
   
 }
-
+.footer{
+    background-color: red;
+    height: 100px;
+    margin-top: 100px;
+    color: rgb(240, 240, 240);
+    background-color: #1F2937;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+}
+.material-symbols-outlined{
+font-size: 14px !important;
+padding: 5px;
+}
+.footer-text{
+display: flex;
+justify-content:center ;
+align-items: center;
+font-size: 13px;
+}
